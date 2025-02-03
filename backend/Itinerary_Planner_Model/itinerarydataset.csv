@@ -1,0 +1,77 @@
+﻿name,tags,cost,description,rating,opening_hours
+National Museum,arts culture history,15,Explore historical and cultural artifacts.,4.5,10:00 AM - 7:00 PM
+ArtScience Museum,arts innovation technology,18,A museum blending art and science.,4.4,10:00 AM - 7:00 PM
+Chinatown Heritage Centre,arts culture history,12,Experience the history of Chinatown.,4.2,9:00 AM - 6:00 PM
+The Esplanade – Theatres on the Bay,arts performance music,0,A world-class performing arts venue with concerts and exhibitions.,4.6,10:00 AM - 10:00 PM
+Gillman Barracks,arts galleries exhibitions,0,A contemporary art cluster with exhibitions from local and international artists.,4.3,11:00 AM - 7:00 PM
+Malay Heritage Centre,arts culture history,8,A center showcasing the rich heritage and culture of the Malay community.,4.4,9:00 AM - 6:00 PM
+Indian Heritage Centre,arts culture history,6,Learn about the Indian community’s contributions to Singapore's history.,4.5,10:00 AM - 7:00 PM
+Singapore Art Museum,arts contemporary exhibitions,10,Showcases contemporary art from Singapore and Southeast Asia.,4.2,10:00 AM - 7:00 PM
+National Gallery Singapore,arts heritage visual-arts,20,Houses the largest public collection of modern art in Singapore and Southeast Asia.,4.5,10:00 AM - 7:00 PM
+Peranakan Museum,arts culture heritage,6,Explores the culture of Peranakan communities in Southeast Asia.,4.4,10:00 AM - 7:00 PM
+
+Gardens by the Bay,nature arts relaxation,20,A stunning garden with futuristic design.,4.7,5:00 AM - 2:00 AM
+MacRitchie Reservoir,nature hiking wildlife,0,Perfect for nature walks and wildlife spotting.,4.6,7:00 AM - 7:00 PM
+East Coast Park,nature relaxation outdoors,0,Relax by the beach and enjoy outdoor activities.,4.5,24 Hours
+Southern Ridges,nature hiking wildlife,0,A scenic trail connecting parks and gardens with stunning views of the city and nature.,4.7,7:00 AM - 7:00 PM
+Bukit Timah Nature Reserve,nature hiking wildlife,0,A rainforest reserve with hiking trails and rich biodiversity.,4.6,7:00 AM - 7:00 PM
+Coney Island Park,nature biking wildlife,0,A tranquil island park for cycling and nature walks.,4.5,7:00 AM - 7:00 PM
+Sungei Buloh Wetland Reserve,nature wildlife bird-watching,0,A haven for migratory birds and other wildlife.,4.6,7:00 AM - 7:00 PM
+Labrador Nature Reserve,nature history coastal,0,Offers coastal walks with rich biodiversity and historical sites.,4.5,7:00 AM - 7:00 PM
+Fort Canning Park,nature history park,0,A historic hilltop park in the heart of the city.,4.6,Open 24 hours
+Pasir Ris Park,nature family mangroves,0,Features a mangrove boardwalk and bird-watching opportunities.,4.4,Open 24 hours
+
+Sentosa Island,adventure family thrill,50,An island full of thrilling attractions.,4.6,9:00 AM - 10:00 PM
+Skyline Luge Sentosa,adventure thrill fun,25,Exciting luge rides down the hill.,4.5,10:00 AM - 9:30 PM
+AJ Hackett Bungy Jump,adventure extreme thrill,60,A heart-pumping bungy jump experience.,4.4,10:00 AM - 7:00 PM
+Mega Adventure Park,adventure thrill zipline,50,Enjoy an exhilarating zipline across the lush greenery of Sentosa.,4.5,10:00 AM - 7:00 PM
+HydroDash,adventure waterpark fun,18,Singapore’s first floating aqua park at Sentosa.,4.2,10:00 AM - 7:00 PM
+Forest Adventure at Bedok Reservoir,adventure treetop obstacle-course,50,A thrilling treetop obstacle course for adventure enthusiasts.,4.6,9:00 AM - 6:00 PM
+Singapore Wake Park,adventure watersports thrill,40,A cable-ski park for wakeboarding and other water sports.,4.4,10:00 AM - 8:00 PM
+iFly Singapore,adventure thrill skydiving,89,Experience indoor skydiving in one of the world's largest wind tunnels.,4.7,9:00 AM - 9:30 PM
+Wave House Sentosa,adventure surfing fun,35,Offers simulated surfing on high-energy wave rides.,4.3,11:30 AM - 9:30 PM
+HeadRock VR,adventure virtual-reality gaming,35,A virtual reality theme park with various thrilling experiences.,4.2,10:00 AM - 8:00 PM
+
+Orchard Road,shopping luxury,0,Singapore's premier shopping destination.,4.6,10:00 AM - 10:00 PM
+Bugis Street Market,shopping bargains souvenirs,0,A vibrant market with affordable goods.,4.3,10:00 AM - 7:00 PM
+The Shoppes at Marina Bay Sands,shopping luxury high-end,0,High-end shopping at Marina Bay.,4.5,10:30 AM - 11:00 PM
+Changi City Point,shopping outlet bargains,0,An outlet mall offering discounts on popular brands.,4.2,10:00 AM - 9:00 PM
+Far East Plaza,shopping bargains trendy,0,A hotspot for affordable and trendy fashion.,4.1,10:00 AM - 9:00 PM
+Haji Lane,shopping boutiques artsy,0,A hip street with unique boutiques cafes and street art.,4.5,Open 24 hours
+Sim Lim Square,shopping electronics gadgets,0,The go-to place for electronics and gadgets.,3.8,10:30 AM - 9:00 PM
+VivoCity,shopping mall entertainment,0,Singapore's largest retail and lifestyle destination.,4.5,10:00 AM - 10:00 PM
+Mustafa Centre,shopping bargains 24-hours,0,A 24-hour shopping mall offering a wide variety of products.,4.2,Open 24 hours
+ION Orchard,shopping luxury dining,0,A stylish mall featuring luxury brands and fine dining options.,4.6,10:00 AM - 10:00 PM
+
+Singapore Botanic Gardens,relaxation nature outdoors,0,A UNESCO World Heritage Site.,4.8,5:00 AM - 12:00 AM
+ESPA at Resorts World Sentosa,relaxation spa wellness,100,Luxurious spa treatments.,4.5,9:00 AM - 9:00 PM
+So Spa by Sofitel,relaxation spa wellness,80,Indulge in soothing spa experiences.,4.4,10:00 AM - 8:00 PM
+Kusu Island,relaxation nature beach,15,A peaceful island escape with beaches and a turtle sanctuary.,4.4,Open 24 hours
+Changi Beach Park,relaxation nature outdoors,0,A serene beach park perfect for picnics and plane-spotting.,4.5,Open 24 hours
+HortPark,relaxation nature garden,0,A gardening-themed park with scenic landscapes.,4.4,6:00 AM - 11:00 PM
+Sembawang Hot Spring Park,relaxation spa outdoors,0,Enjoy a natural hot spring experience in an outdoor setting.,4.3,7:00 AM - 7:00 PM
+Lazarus Island,relaxation beach getaway,0,A tranquil island with pristine beaches perfect for a quiet getaway.,4.7,Open 24 hours
+Pulau Ubin,relaxation nature cycling,0,Rustic island offering cycling and nature trails for a peaceful retreat.,4.6,Open 24 hours
+Spa Botanica,relaxation spa wellness,120,Indulge in luxurious spa treatments surrounded by lush greenery.,4.5,9:00 AM - 8:00 PM
+
+Universal Studios Singapore,family adventure theme-park,79,A world-class theme park with fun for all ages.,4.5,11:00 AM - 6:00 PM
+Singapore Zoo,family nature wildlife,45,One of the world's best rainforest zoos.,4.7,8:30 AM - 6:00 PM
+KidZania Singapore,family interactive educational,58,A fun and interactive learning experience for kids.,4.3,10:00 AM - 6:00 PM
+Adventure Cove Waterpark,family adventure waterpark,38,A fun water park with slides wave pools and snorkeling activities.,4.2,10:00 AM - 5:00 PM
+River Wonders,family nature wildlife,40,A river-themed wildlife park featuring the giant pandas.,4.5,10:00 AM - 7:00 PM
+S.E.A. Aquarium,family marine wildlife,41,Explore the wonders of marine life with over 100000 marine creatures.,4.6,10:00 AM - 5:00 PM
+Wild Wild Wet,family waterpark fun,26,A family-friendly water park with thrilling slides and pools.,4.3,12:00 PM - 6:00 PM
+Nestopia,family adventure outdoor-play,15,An outdoor play space with climbing structures and slides for kids.,4.3,11:00 AM - 8:00 PM
+Snow City Singapore,family adventure indoor-snow,20,Experience snow and ice activities in a fun indoor space.,4.2,10:00 AM - 6:00 PM
+The Artground,family arts interactive-play,0,An arts space offering interactive play experiences for kids.,4.4,10:00 AM - 5:00 PM
+
+Singapore Science Centre,technology innovation education,12,Interactive exhibits about science and tech.,4.5,10:00 AM - 6:00 PM
+Fusionopolis,technology innovation science,0,A hub for science and innovation.,4.3,9:00 AM - 7:00 PM
+Smart Nation City Gallery,technology innovation smart-city,0,Learn about Singapore's smart city vision.,4.4,9:00 AM - 6:00 PM
+Virtual Room Singapore,technology virtual-reality team-building,40,A collaborative VR gaming experience.,4.5,12:00 PM - 8:00 PM
+Red Dot Design Museum,technology design innovation,10,A museum showcasing innovative product designs.,4.3,10:00 AM - 7:00 PM
+IMDA Pixel Labs,technology innovation learning,0,A space for learning about digital media and innovation.,4.4,9:00 AM - 6:00 PM
+Lee Kong Chian Natural History Museum,technology science history,16,A museum with exhibits on natural history and biodiversity.,4.5,10:00 AM - 7:00 PM
+ArtScience Museum Digital Light Canvas,technology interactive art,15,A mesmerizing digital art experience.,4.3,10:00 AM - 7:00 PM
+Changi Experience Studio,technology aviation interactive,25,An interactive showcase of Changi Airport’s innovations.,4.6,10:00 AM - 8:00 PM
+NUS Museum,technology education heritage,5,Explore heritage and technology exhibits in this university museum.,4.2,10:00 AM - 6:00 PM
