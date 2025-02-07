@@ -1,0 +1,3 @@
+backend/.env
+backend/firebase_cred.json
+frontend/firebaseConfig.ts
