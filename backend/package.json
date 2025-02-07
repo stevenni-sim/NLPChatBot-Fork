@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "dotenv": "^16.4.7",
-    "firebase": "^11.1.0",
-    "react-markdown": "^9.0.3"
-  }
-}
